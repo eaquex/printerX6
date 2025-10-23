@@ -1,0 +1,2 @@
+Build Command
+pyinstaller PrinterX6_Utility.spec
